@@ -228,7 +228,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Khushal_Bhaliya_18.pdf"
               className="group flex items-center gap-2 px-7 py-3.5 rounded-xl border border-white/20 text-white font-bold text-sm tracking-wide hover:border-[#C9A84C]/50 hover:bg-[#C9A84C]/5 transition-all duration-300 backdrop-blur-sm"
             >
               <Download
